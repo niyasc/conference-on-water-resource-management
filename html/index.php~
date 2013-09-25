@@ -1,26 +1,46 @@
-<head>
-		<link rel="stylesheet" type="text/css" href="css/style.css"/>
-		<link rel="stylesheet" type="text/css" href="css/bootstrap.css"/>
-		<title>National Conference on Water Resource Management- Achievements and Challenges 2014</title>
-	</head>
-	<body>
-	<!--Heading-->
-		<table>
-			
-			<tr class='title2'>
-				<td>
-					National conference on
-				</td>
-			</tr>
-			<tr class='title1'>
-				<td>
-					Water Resource Management<br/>Achievements and Challenges
-				</td>
-			</tr>
-
-			<tr class='title3'>
-				<td>
-					22nd March 2014
-				</td>
-			</tr>
-		</table>
+<?php
+	require("../include/config.php");
+	if($_SERVER["REQUEST_METHOD"] == "GET"&&!empty($_GET["page"]))
+	{
+		if($_GET["page"]=="detailed-objective")
+		{
+			render("detailed-objective.php",["title"=>"Background and Objective"]);
+		}
+		else if ($_GET["page"]=="conference-themes")
+		{
+			render("conference-themes.php",["title"=>"Conference Themes"]);
+		}
+		else if ($_GET["page"]=="about-jamia")
+		{
+			render("about-jamia.php",["title"=>"Jamia Millia Islamia"]);
+		}
+		else if ($_GET["page"]=="about-civil")
+		{
+			render("about-civil.php",["title"=>"Department of Civil Engg."]);
+		}
+		else if ($_GET["page"]=="submission")
+		{
+			render("submission.php",["title"=>"Submission of Abstract and Full Papers"]);
+		}
+		else if ($_GET["page"]=="important-dates")
+		{
+			render("important-dates.php",["title"=>"Important Dates"]);
+		}
+		else if ($_GET["page"]=="registration-fees")
+		{
+			render("registration-fees.php",["title"=>"Registration Fees"]);
+		}
+		else if ($_GET["page"]=="correspondence")
+		{
+			render("correspondence.php",["title"=>"Correspondence"]);
+		}
+		else
+		{
+			render("page-not-found.php",["title"=>"Page not Found"]);
+		}
+	}
+	else
+	{
+		render("home.php",["title"=>"Home Page"]);
+	}
+?>
