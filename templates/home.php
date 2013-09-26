@@ -1,4 +1,4 @@
-<table class='table table-bordered table-striped' style="width:1150px; margin-left:auto;margin-right:auto">
+<table class='table table-bordered table-striped' style="width:1190px; margin-left:auto;margin-right:auto">
 	<tr>
 		<td >
 			<table class='table table-bordered table-striped' style="width:750px; margin-left:auto;margin-right:auto">
@@ -29,7 +29,7 @@ Read More
 			</table>
 		</td>
 		<td>
-			<table class='table table-bordered table-striped' style="width:400px; margin-left:auto;margin-right:auto">
+			<table class='table table-bordered table-striped' style=" margin-left:auto;margin-right:auto">
 				<tr>
 					<td>
 						<h3>

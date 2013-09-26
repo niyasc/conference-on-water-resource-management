@@ -10,7 +10,7 @@
 	<td>
 		<table>
 			<tr>
-				<td>
+				<td style="width:300px">
 					<h4>Patron</h4>
 					Shri.Vice-Chancellor,<br/>
 					Jamia Millia Islamia, New Delhi<br/>
@@ -30,7 +30,7 @@
 					Dr. Azhar Husain<br/>
 					
 				</td>
-				<td>
+				<td style="width:300px">
 					<h4>Executive Members</h4>
 					Prof. N. U. Khan<br/>
 					Prof. Khalid Moin<br/>

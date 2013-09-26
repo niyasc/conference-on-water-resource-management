@@ -1,7 +1,7 @@
 body
 {
 	background-image:url("../images/titlenbg.png");
-	background-width:100%;
+	background-width:1200px;
 	background-repeat:no-repeat;
 	background-position:top;
 }
@@ -37,7 +37,7 @@ table
 	text-align:center;
 	margin-left:auto;
 	margin-right:auto;
-	width:100px;
+	width:1200px;
 	height:50px;
 }
 

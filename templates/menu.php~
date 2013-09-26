@@ -8,8 +8,8 @@
 	
 	<div >
 		<div >
-			<div class='span14' >
-			<div class='offset2'>
+			<div style="width:900px;margin-left:auto;margin-right:auto;font-size:15px;font-weight:bold">
+			<div >
 				
 				<div class="navbar">
 					<div class="navbar-inner">
@@ -18,7 +18,6 @@
 							<li><a href="./">Home</a></li>
 							<li><a href="index.php?page=submission">Paper&Abstract Submission</a></li>
 							<li><a href="./resources/application.pdf">Registration Form</a></li>
-							<li><a href="./resources/brochure.pdf">Brochure</a></li>
 							<li><a href="index.php?page=important-dates">Important Dates</a></li>
 							<li><a href="index.php?page=correspondence">Correspondence</a></li>
 							
@@ -30,7 +29,7 @@
 								
 								<ul class="dropdown-menu">
 									<li><a href="index.php?page=about-jamia">Jamia Millia Islamia</a></li>
-									<li><a href="index.php?page=about-civil">Department of Computer Engg.</a></li>
+									<li><a href="index.php?page=about-civil">Department of Civil Engg.</a></li>
 									<li><a href="index.php?page=behind-screens">Behind the screen</a>
 								</ul>
 								

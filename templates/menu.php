@@ -8,8 +8,8 @@
 	
 	<div >
 		<div >
-			<div class='span14' >
-			<div class='offset2'>
+			<div style="width:890px;margin-left:auto;margin-right:auto;font-size:15px;font-weight:bold">
+			<div >
 				
 				<div class="navbar">
 					<div class="navbar-inner">
@@ -29,7 +29,7 @@
 								
 								<ul class="dropdown-menu">
 									<li><a href="index.php?page=about-jamia">Jamia Millia Islamia</a></li>
-									<li><a href="index.php?page=about-civil">Department of Computer Engg.</a></li>
+									<li><a href="index.php?page=about-civil">Department of Civil Engg.</a></li>
 									<li><a href="index.php?page=behind-screens">Behind the screen</a>
 								</ul>
 								

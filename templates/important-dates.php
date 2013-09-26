@@ -1,4 +1,4 @@
-<table class='table table-bordered table-striped' style="width:1150px">
+<table class='table table-bordered table-striped' style="width:1190px">
 <tr>
 	<td>
 		<h2>

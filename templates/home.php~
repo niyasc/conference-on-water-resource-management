@@ -1,4 +1,4 @@
-<table class='table table-bordered table-striped' style="width:1150px; margin-left:auto;margin-right:auto">
+<table class='table table-bordered table-striped' style="width:1190px; margin-left:auto;margin-right:auto">
 	<tr>
 		<td >
 			<table class='table table-bordered table-striped' style="width:750px; margin-left:auto;margin-right:auto">
@@ -63,6 +63,9 @@ Read More
 							</a>
 							<a href="./resources/application.pdf">
 							<li>Registration Form</li><br/>
+							</a>
+							<a href="./resources/brochure.pdf">
+							<li>Brochure</li><br/>
 							</a>
 							<a href="index.php?page=behind-screens">
 							<li>Behind the screens</li><br/>
